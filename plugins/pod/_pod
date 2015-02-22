@@ -195,6 +195,7 @@ __pod-repo() {
                 (add)
                     _arguments \
                         $_inherited_options
+
                 (remove)
                     _arguments \
                         $_inherited_options \
